@@ -20,7 +20,3 @@ class Project
     end
 
 end
-
-a = Project.new("abc")
-
-p a
